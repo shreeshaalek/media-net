@@ -1,0 +1,20 @@
+.main-container {
+    display: flex;
+}
+.left-container,.right-container {
+    width: 50%;
+}
+.left-container .email-header {
+    font-size: 20px;
+    margin: 5px 0;
+}
+.left-container .email-value {
+    width: 50%;
+    height: 30px;
+}
+.left-container .add-button {
+    background-color: lightskyblue;
+    display: block;
+    width: 40px;
+    height: 40px;
+}
